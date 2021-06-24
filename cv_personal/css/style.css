@@ -1,0 +1,41 @@
+
+main{
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+body{
+    background-color: rgb(231, 208, 250);
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+header{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+img#personal{
+    max-width: 100px;
+    margin: 50x auto;
+    display:block;
+    margin:auto;
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(213, 163, 228);
+    color: rgb(243, 243, 247);
+}
+h2{
+    background-color: rgb(213, 163, 228);
+    color: rgb(239, 239, 241);
+}
+p{
+    text-align: center;
+}
+section.boton{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: rgb(254, 254, 255);
+    background-color: rgb(209, 133, 228);
+}

@@ -1,0 +1,28 @@
+
+main{
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+body{
+    background-color: rgb(231, 208, 250);
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+body{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    background-color: rgb(213, 138, 236);
+    color: rgb(243, 243, 247);
+}
+h2{
+    text-align: center;
+    background-color: rgb(213, 163, 228);
+    color: rgb(239, 239, 241);
+}
+
+div.boton{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+h1{text-align: center;
+    background-color: rgb(176, 180, 185);
+    color: rgb(68, 68, 134);
+}
+main{
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+
+h2{text-transform: uppercase;
+    background-color: rgb(176,180,185);
+    color: rgb(68, 68, 134);
+}
+footer{text-transform: uppercase;
+    text-align: center;
+    color: rgb(254, 254, 255);
+    background-color: rgb(68, 68, 134);
+}
+img#btm{
+    max-width: 1041px;
+    margin: 50px auto;
+    display:block;
+    margin:auto;
+
+}
